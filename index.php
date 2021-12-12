@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Document</title>
+    <title>Pozz Seang</title>
+    <link rel="icon" href="s_logo.png">
 
     <style>
         body{
