@@ -3,6 +3,7 @@
 <head>
     <title>Pozz Seang</title>
     <link rel="icon" href="s_logo.png">
+    <link rel="image_src" href="s_logo.png" />
 
     <style>
         body{
